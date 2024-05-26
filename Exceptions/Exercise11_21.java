@@ -1,5 +1,3 @@
-// Mazin Haider
-// CIS 207-700
 // November 15, 2023
 /* This program shows that a method in its own try block doesn't have to catch every error in the try.
  * The error can slip into other scopes to be handled as well.
