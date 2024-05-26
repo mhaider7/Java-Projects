@@ -1,5 +1,3 @@
-// Mazin Haider
-// CIS 207-700
 // October 24, 2023
 /* This program creates a class called SavingsAccount which has variables savingBalance to hold an accounts saving balance
  * and a static variable called annualInterestRate which will hold the same interest rate for each object of the class.
