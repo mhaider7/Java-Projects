@@ -1,6 +1,4 @@
-// Mazin Haider
 // October 30, 2023
-// CIS 207-700
 /* This program demonstrate the use of both inheritance and composition. A superclass CompensatonModel is declared
  * which contains only the earnings methods. Then classes CommissionCompensationModel and BasePlusCommissionCompositionModel 
  * are created to inherit from the CompensationModel class while adding in their own attributes and overriding 
