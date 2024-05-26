@@ -1,5 +1,3 @@
-// Mazin Haider
-// CIS 207-700
 // November 15, 2023
 /* This program illustrates re-throwing an exception through the use of chained exceptions. An exception
  * is thrown manually in a method which works up the chain of method calls. The re-thrown exception
