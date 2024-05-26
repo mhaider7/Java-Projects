@@ -1,5 +1,3 @@
-// Mazin Haider
-// CIS 207-700
 // December 10, 2023
 /* This applications uses the regionMatches method to compare 2 string input by the user. 
  * The strings will be compared at a specified range of indexes
