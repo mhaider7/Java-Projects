@@ -1,5 +1,3 @@
-// Mazin Haider
-// CIS 207-700
 // November 15, 2023
 /* This program shows what happens what a superclass type is placed within the parameters of a catch block
  * before all the subsequent catch blocks which contains subclasses as their parameters. 
