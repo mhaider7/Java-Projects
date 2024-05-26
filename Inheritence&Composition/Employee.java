@@ -1,6 +1,4 @@
-// Mazin Haider
 // October 30, 2023
-// CIS 207-700
 /* This program creates a HourlyEmployee class which inherits basic functions from a Employee class.
  * The HourlyEmplyee class adds hours of work data and wage rate for the worker. Also, the HourlyEmployee
  * class overrides the toString() method of the Employee class to include the hour, wage, and earnings.
