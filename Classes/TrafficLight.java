@@ -1,5 +1,3 @@
-// Mazin Haider
-// CIS 207-700
 // October 24, 2023
 /* This program creates an enum class called TrafficLight which has constants RED, GREEN, YELLOW each taking 1 parameter
  * which is the duration of each light. A program is created to test the TrafficLight enum class and print out the constants
