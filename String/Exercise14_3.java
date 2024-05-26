@@ -1,5 +1,3 @@
-// Mazin Haider
-// CIS 207-700
 // December 10, 2023
 /* This applications uses class String's method compareTo to compare 2 strings entered by user input.
  * Then the application outputs whether the first inputed string is greater than, less than, or equal to the second inputed string.
