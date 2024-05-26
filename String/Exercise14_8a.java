@@ -1,5 +1,3 @@
-// Mazin Haider
-// CIS 207-700
 // December 11, 2023
 /* This application reads a line of text from the keyboard, then prints a table indicating the number of 
  * occurrences of each letter in the text. 
