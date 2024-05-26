@@ -1,5 +1,3 @@
-// Mazin Haider
-// CIS 207-700
 // December 11, 2023
 /* This application inputs at telephone number in the string form (555) 555-5555. The area code is extracted
  * into a token. Then, the second three letters and the last four letters are extracted into a token and
