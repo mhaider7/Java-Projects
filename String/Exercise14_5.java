@@ -1,5 +1,3 @@
-// Mazin Haider
-// CIS 207-700
 // December 11, 2023
 /* This program randomly prints out a "article", "noun", "verb", "preposition" type word in that order 
  * by traversing each array to build a sentence. The first letter of the sentence is capitalized and a
