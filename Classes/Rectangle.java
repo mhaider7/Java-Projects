@@ -1,5 +1,3 @@
-// Mazin Haider
-// CIS 207-700
 // October 24, 2023
 /* This program creates a Rectangle class and with instance variables length and width which defaults to 1. 
  * The methods of the class can set and get the length and width. Also, there is a method that calculates the area of the rectangle.
